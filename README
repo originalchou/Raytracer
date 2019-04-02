@@ -1,0 +1,8 @@
+run following command to execute the project:
+premake4 gmake
+make
+./A4 nonhier.lua
+
+1. Can only render cubes and spheres.
+2. Bounding volumn is implemented but does not work properly.
+3. No extra feature implemented.
